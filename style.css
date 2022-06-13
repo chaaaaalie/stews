@@ -1,0 +1,80 @@
+body{
+    font-family:Meiryo UI;
+    text-align: center;
+}
+
+a{
+    color:#000;
+    text-decoration: none;
+}
+
+header{
+    background-color: #fff;
+    height: 50px;
+    padding:5px 600px;
+   margin-bottom:50px;
+   font-size:20px;
+}
+
+.header-logo2{
+    width:50px;
+    padding:10px;
+  
+}
+
+.header-logo{
+    float:left;
+    
+}
+
+li {
+    list-style:none;
+    float:left;
+    padding:15px;
+    
+}
+
+.top-wrapper{
+    
+    margin-bottom:100px;
+}
+
+.top-img{
+    width:60%;
+}
+
+h1{
+    padidng-bottom:20px;
+}
+
+/*プロフィールページ*/
+
+
+.stews-wapper{
+    margin-top:100px;
+    margin-bottom:500px;
+}
+
+.stews-img{
+    width:100%;
+    margin-bottom:10px;
+}
+
+.prof-wrapper{
+    width:80%;
+}
+
+.shota{
+  float:left;
+  margin-left:300px;
+}
+
+.tsubasa{
+    margin-left:1400px;
+}
+
+.movie-container{
+    text-align:center;
+    background-color:#000;
+    color:#fff;
+}
